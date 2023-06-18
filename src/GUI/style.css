@@ -1,0 +1,17 @@
+/*
+ * CSS file to change the visual aspect better than was is available on scene builder alone
+ */
+/**
+ * @author Satheyaseelan Sugieethan
+ */
+.default-color0.chart-series-line {  /* set texture of linechart */
+    -fx-stroke: #dd1c1a
+}
+.default-color0.chart-line-symbol { /* set colour of linechart */
+    -fx-background-color: #dd1c1a, #ffffff;
+}
+.default-color0.chart-bar { /* set colour of barchart */
+    -fx-bar-fill: #284b63
+}
+
+
