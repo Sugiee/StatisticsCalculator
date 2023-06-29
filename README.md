@@ -1,5 +1,5 @@
 # StatisticsCalculator
-Java Application that takes a text file with raw numerical data and proccesses it to produce useful statistical data and plots a best fit graph using 3 different mathematical algorithms.
+Java Application that takes a text file with raw numerical data and processes it to produce useful statistical data and plots a best fit graph using 3 different mathematical algorithms.
 
 Screenshots of the application:
 ![image](https://github.com/Sugiee/StatisticsCalculator/assets/109767406/545a9272-7e80-4297-ab45-7ccf603b4f9b)
